@@ -151,5 +151,5 @@ This guide covers:
 ✅ Running the prediction model
 ✅ Automating predictions for real-time updates
 
-Now you’re ready to run the project successfully! 🚀
+ready to run the project successfully! 🚀
 
