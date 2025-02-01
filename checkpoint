@@ -1,0 +1,2 @@
+model_checkpoint_path: "newmodel2.h5"
+all_model_checkpoint_paths: "newmodel2.h5"
